@@ -9,5 +9,4 @@ Finally, I visualized and printed the results of the linear regression that was 
 
 File Name: StatePoverty_SparkViz.py
 
-For this project, I used a State Povery dataset and tools (Python, Jupyter Notebooks) and added Spark as a way to add speed to calculations
-In this project, I created a dataframe using just the Southern states and tracked the poverty rates from 2010-17. After creating this dataframe I visualized it using the matplotlib library.
+For this project, I used a State Povery dataset and tools (Python, Jupyter Notebooks) and added Spark as a way to add speed to calculations. In this project, I created a dataframe using just the Southern states and tracked the poverty rates from 2010-17. After creating this dataframe I visualized it using the matplotlib library.
